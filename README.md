@@ -70,7 +70,7 @@ This page allows users to perform detailed analyses of complaints using custom p
 
 You can view the live Power BI dashboard using the link below:
 
-[View CMS Dashboard]([https://app.powerbi.com/groups/me/reports/Your-Dashboard-Link](https://app.powerbi.com/reportEmbed?reportId=466a53f2-e8a1-462a-ac66-77edb6cae89e&autoAuth=true&ctid=28bcace8-4ce7-4949-868f-170f67122379))  
+[View CMS Dashboard](<https://app.powerbi.com/reportEmbed?reportId=466a53f2-e8a1-462a-ac66-77edb6cae89e&autoAuth=true&ctid=28bcace8-4ce7-4949-868f-170f67122379>)
 _(Replace `Your-Dashboard-Link` with your actual dashboard URL.)_
 
 ---

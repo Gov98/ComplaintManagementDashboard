@@ -3,7 +3,7 @@
 This repository contains the Power BI dashboards developed for the Complaint Management System (CMS). The dashboards offer interactive visualizations and analytics to monitor and manage customer complaints effectively.
 
 <b>video demonstration</b><br>
-![video](/demovideo.mp4)
+![video](demovideo.mp4)
 <br>
 
 ## Dashboard Overview

@@ -4,6 +4,7 @@ This repository contains the Power BI dashboards developed for the Complaint Man
 
 <b>video demonstration</b><br>
 ![video](/screenshot/demo.gif) 
+https://github.com/user-attachments/assets/46ad6d2f-eaa0-46e8-8c73-8202b10228bf
 <br>
 (https://raw.githubusercontent.com/Gov98/ComplaintManagementDashboard/main/screenshot/demo.gif)
 ## Dashboard Overview

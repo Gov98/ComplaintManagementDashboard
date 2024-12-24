@@ -9,6 +9,8 @@ This repository contains the Power BI dashboards developed for the **Complaint M
 The CMS Power BI dashboards are divided into two main sections:
 
 ### 1. **Dashboard Page**
+![image](https://github.com/user-attachments/assets/2a24d05a-3f22-41df-92fa-5e2c09367435)
+
 This page provides an at-a-glance summary of key metrics and visualizations.
 
 #### Metrics and Visualizations:

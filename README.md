@@ -31,6 +31,8 @@ This page provides an at-a-glance summary of key metrics and visualizations.
 ---
 
 ### 2. **Analytics Page**
+![image](https://github.com/user-attachments/assets/c3eab82e-72da-481a-b54b-69174e4e0f2b)
+
 This page allows users to perform detailed analyses of complaints using custom parameters and slicers.
 
 #### Features:
